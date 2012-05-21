@@ -23,7 +23,13 @@
     },
     "description": "Provides functionality to use translations inside templates.",
     "homepage": "https://github.com/zetacomponents",
-    "license": "apache2",
+    "license": "Apache-2.0",
     "name": "zetacomponents/template-translation-tiein",
-    "type": "library"
+    "type": "library",
+        "require": {
+            "zetacomponents/base": "*"
+        },
+        "require-dev": {
+            "zetacomponents/unit-test": "*"
+        }
 }
