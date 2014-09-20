@@ -26,10 +26,11 @@
     "license": "Apache-2.0",
     "name": "zetacomponents/template-translation-tiein",
     "type": "library",
-        "require": {
-            "zetacomponents/base": "*"
-        },
-        "require-dev": {
-            "zetacomponents/unit-test": "*"
-        }
+    "require": {
+        "zetacomponents/template": "~1.4",
+        "zetacomponents/translation": "~1.3"
+    },
+    "require-dev": {
+        "zetacomponents/unit-test": "*"
+    }
 }
