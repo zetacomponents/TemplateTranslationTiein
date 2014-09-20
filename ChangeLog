@@ -1,3 +1,15 @@
+1.2 - Saturday 20 September 2014
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Fixed: Adjusted source headers of Execution to Apache license.
+- Updated: Moving copyright information to NOTICE files.
+- Fixed bug #36: Removed (broken) unreachable code.
+- Fixed: Updated copyright dates in NOTICE files.
+- Fixed #ZETACOMP-1: Template file extension is no longer hard coded
+- Fixed #ZETACOMP-2: comments should be supported in Extractor
+- Remove custom test runner.
+- Fix autoloading with composer
+
 1.1.1 - [RELEASEDATE]
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
