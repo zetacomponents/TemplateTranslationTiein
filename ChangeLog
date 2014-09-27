@@ -1,4 +1,4 @@
-1.2 - Saturday 20 September 2014
+1.2 - Saturday 27 September 2014
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Fixed: Adjusted source headers of Execution to Apache license.
@@ -9,10 +9,6 @@
 - Fixed #ZETACOMP-2: comments should be supported in Extractor
 - Remove custom test runner.
 - Fix autoloading with composer
-
-1.1.1 - [RELEASEDATE]
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 - Fixed #16042: ezcTemplateTranslationExtractor::unifyFilepath() chops off
   character
 
